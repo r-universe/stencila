@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "stencilaschema"]
-	path = stencilaschema
-	url = https://github.com/stencila/schema
-	shallow = true
-	subdir = r
-	registered = true
